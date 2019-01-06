@@ -1,11 +1,13 @@
 # SWAGGINZZZ
 
-In his first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
+In her first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
 
 Some will argue that SWAGGINZZZ cheated. She did, in fact, have help. Her friend clumsily played for the first 6 minutes of the game looking for a fountain, making the effective ascension time for SWAGGINZZZ ~1 minute. Other than that though, SWAGGINZZZ with her RNG-predicting AWS-cluster of monster computers ascended all on her own, completely legitimately, without any help 😉
 
 [Dumplog](https://s3.amazonaws.com/altorg/dumplog/SWAGGINZZZ/1546732576.nh361.txt)
+
 [TTYREC](https://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrechttps://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrec)
+
 [NAO Scoreboard](https://alt.org/nethack/fastasc-current.html)
 
 # Goals for SWAGGINZZZ
@@ -22,7 +24,7 @@ To be able to predict the RNG in NetHack, we first had to find the RNG seed used
 
 Locally, retrieving the seed can be done by looking at the internal memory of NetHack, but to do it on a public server where the game instance is on a different computer, you need a different approach.
 
-The easiest way to find which of the 2^32 different starting values that NAO assigned to you, is to simply restart start the game locally on an identical system until you see the same game. Finding it within a reasonable time frame would require significantly more luck than SWAGGINZZZ had in his run though 🙂
+The easiest way to find which of the 2^32 different starting values that NAO assigned to you, is to simply restart start the game locally on an identical system until you see the same game. Finding it within a reasonable time frame would require significantly more luck than SWAGGINZZZ had in her run though 🙂
 
 # Comparing games
 
@@ -56,7 +58,7 @@ First idea was to start a NAO game, fetch the seed, then saving and perfecting t
 
 Loooong story short, we wrote a bot. You had to play the first turns (offline) and move her to a non-magic fountain located next to a wall. If you died, no big deal, just retry on the same seed. This is why SWAGGINZZZ stood still for 6 minutes, we had absolutely horrible RNG when trying to get the specific fountain needed on dlvl2.
 
-The fountain is required for wishes. The wall is required to be able to offset the random state without advancing the game state – every time the character attempts to walk into a wall, it calls random() without wasting any in-game time. From the fountain, the bot ascends completely on his own.
+The fountain is required for wishes. The wall is required to be able to offset the random state without advancing the game state – every time the character attempts to walk into a wall, it calls random() without wasting any in-game time. From the fountain, the bot ascends completely on her own.
 
 Note that we had a lot of names that were better than SWAGGINZZZ. They all succumbed when bugs in our bot logic would cause the NAO and local state to drift apart, so we simply save-quit those games as to not raise suspicion on the IRC channel. After a while, coming up with good names gets pretty hard. 😉
 
