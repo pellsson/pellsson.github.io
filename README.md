@@ -1,12 +1,12 @@
 # SWAGGINZZZ
 
-In his first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found himself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
+In his first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
 
 Some will argue that SWAGGINZZZ cheated. She did, in fact, have help. Her friend clumsily played for the first 6 minutes of the game looking for a fountain, making the effective ascension time for SWAGGINZZZ ~1 minute. Other than that though, SWAGGINZZZ with her RNG-predicting AWS-cluster of monster computers ascended all on her own, completely legitimately, without any help 😉
 
-Scoreboard: https://alt.org/nethack/fastasc-current.html
-Dumplog: https://s3.amazonaws.com/altorg/dumplog/SWAGGINZZZ/1546732576.nh361.txt
-TTYREC: https://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrechttps://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrec
+[Dumplog](https://s3.amazonaws.com/altorg/dumplog/SWAGGINZZZ/1546732576.nh361.txt)
+[TTYREC](https://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrechttps://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrec)
+[NAO Scoreboard](https://alt.org/nethack/fastasc-current.html)
 
 # Goals for SWAGGINZZZ
 
@@ -14,8 +14,7 @@ We set out to have a single run getting the #1 spot in all three "major-scores":
 
 Lowest turn count and fastest realtime were achieved, but we abandoned the high score. Getting a sufficient score with an infinite amount of wishes would not have been terribly difficult: `Air Elemental`-wishing 2,000 times for stacks of 4-5 dilithium crystals over ~700 turns – job done. It did however feel like a waste of NAO resources to spam the massive amount of additional inputs required for the extra 2,000 wishes (as compared to the 90 wishes we wound up using for the other highscores).
 
-As an added bonus, it’s probably the first “lowest scoring”-ascension record with all three quest artifacts still in the inventory 🙂
-https://alt.org/nethack/lowscoreasc361.html
+As an added bonus, it’s probably the first [“lowest scoring”-ascension](https://alt.org/nethack/lowscoreasc361.html) record with all three quest artifacts still in the inventory 🙂
 
 # RNG in NetHack
 
