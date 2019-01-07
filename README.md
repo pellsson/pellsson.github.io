@@ -78,7 +78,8 @@ Now this is a huge simplification. Even with RNG manipulation, writing a bot tha
 
 # Horrible nightmarish bugs & obstacles
 
-Piggy-backing on existing NetHack functions. If you want to research RNG-manipulation in NetHack, never do this. We pretty soon established it as a forbidden practice. 🙂 I recall a specific occasion when the bot was equipping rings. You need to answer *Left* or *Right* if no rings are worn. We figured that since NetHack already implements this function, let us just call it to determine what finger to use, less work for us. Turns out,  **every** function in NetHack seems to find a way to call `random()`, causing the RNG state to drift.
+Piggy-backing on existing NetHack functions. If you want to research RNG-manipulation in NetHack, never call existing nethack functions. We pretty soon established it as a forbidden practice. 🙂 I recall a specific occasion when the bot was equipping rings. You need to answer *Left* or *Right* if no rings are worn. We figured that since NetHack already implements this function, let us just call it to determine what finger to use, less work for us. Turns out,  **every** function in NetHack seems to find a way to call `random()`, causing the RNG state to drift.
+*Edit: Or was it armor slot it was trying to deduce? Something along those lines.*
 
 Antholes. Truly hate antholes. At seemingly complete random, when replaying the ascension the replay would suddenly deviate from the ascended run and collapse like a supernova. Restart NetHack and paste the exact same structure again and it works. After much code digging and debugging it turns out that what populates an anthole depends on your `ubirthday`, not `random()`. As a result, the replay would only work every third second.
 
@@ -89,15 +90,15 @@ To provoke the Wizard of Yendor, we polymorph into a Master Mind Flayer, using i
 # Ascension Summary
 
 - Find non-magic fountain next to a wall (manually)
-- 90 wishes. Eyes to jump on Sanctum. 60 c!oGL. ~+100 MB
+- 90 wishes. Eyes to phase-jump through walls. 60 c!oGL. ~+100 MB
 - Genocide LcPUn (due to lazy bot code ;))
-- Tele Vlad & get candelabrum
+- Tele Vlad, phase-jump tower, get candelabrum.
 - `h`-strats to provoke Rodney (who is not allowed to return by RNG)
 - Wait for quest
 - Level-tele to jumping distance from quest leader (save realtime over landing next to).
 - Go to end
 - Land jumping distance from square
-- Jump to priest
+- Phase-jump to priest
 - c!oGL to top (Mysterious force not allowed. Lovely.)
 - Hallu for RNG manip without walls (just press space)
 - Force portals relatively close on Earth, Air, Fire.
