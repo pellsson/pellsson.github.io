@@ -12,7 +12,7 @@ Some will argue that SWAGGINZZZ cheated. She did, in fact, have help. Her friend
 
 # Goals for SWAGGINZZZ
 
-We set out to have a single run getting the #1 spot in all three "major-scores": highest score, lowest turn count, and fastest realtime on NAO. We’d needed an RNG-predicting bot.
+We set out to have a single run getting the #1 spot in all three "major-scores": highest score, lowest turn count, and fastest realtime on NAO. We needed an RNG-predicting bot.
 
 Lowest turn count and fastest realtime were achieved, but we abandoned the high score. Getting a sufficient score with an infinite amount of wishes would not have been terribly difficult: `Air Elemental`-wishing 2,000 times for stacks of 4-5 dilithium crystals over ~700 turns – job done. It did however feel like a waste of NAO resources to spam the massive amount of additional inputs required for the extra 2,000 wishes (as compared to the 90 wishes we wound up using for the other highscores).
 
