@@ -40,7 +40,7 @@ Our first idea was very basic. Modify NetHack to iterate over all seeds, and for
 
 Unfortunately, this method would have taken weeks on average. Weeks won't do for fastest realtime ascension.
 
-We went back and forth on several methods, but ultimately settled on building a gigantic database. Create a hash of the inventory and starting attributes for **all** `Tou Hum Fem Neu` games possible, and save them in a binary sorted lookup table.
+We went back and forth between several methods, but ultimately settled on building a gigantic database. Create a hash of the inventory and starting attributes for **all** `Tou Hum Fem Neu` games possible, and save them in a binary sorted lookup table.
 
 Using every computer at hand, including a couple of 72-core AWS instances, we soon had everything we needed.
 
