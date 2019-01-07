@@ -2,7 +2,7 @@
 
 In her first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
 
-Some will argue that SWAGGINZZZ cheated. She did, in fact, have help. Her friend clumsily played for the first 6 minutes of the game looking for a fountain, making the effective ascension time for SWAGGINZZZ ~1 minute. Other than that though, SWAGGINZZZ with her RNG-predicting AWS-cluster of monster computers ascended all on her own, completely legitimately, without any help 😉
+Some will argue that SWAGGINZZZ cheated. She did, in fact, have help. Her friend clumsily played for the first 6 minutes of the game looking for a fountain, making the effective ascension time for SWAGGINZZZ ~1 minute. Other than that though, SWAGGINZZZ with her RNG-predicting AWS-cluster of monster computers ascended all on her own, completely legitimately, without any help 🙂
 
 [Dumplog](https://s3.amazonaws.com/altorg/dumplog/SWAGGINZZZ/1546732576.nh361.txt)
 
@@ -104,7 +104,7 @@ To provoke the Wizard of Yendor, we polymorph into a Master Mind Flayer, using i
 - Force portals relatively close on Earth, Air, Fire.
 - Ascend.
 
-I would like to end this YAAP with the eloquently phrased first reaction in #nethack
+I would like to end this YAAP with the eloquently phrased first reaction in #nethack 🙂
 
 ```
 00:04:01 Megaman3300: holy fuck
