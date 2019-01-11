@@ -6,7 +6,7 @@ Some will argue that SWAGGINZZZ cheated. She did, in fact, have help. Her friend
 
 [Dumplog](https://s3.amazonaws.com/altorg/dumplog/SWAGGINZZZ/1546732576.nh361.txt)
 
-[TTYREC](https://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrechttps://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrec)
+[TTYREC](https://alt.org/nethack/trd/?file=https://alt.org/nethack/userdata/S/SWAGGINZZZ/ttyrec/2019-01-05.23:56:16.ttyrec)
 
 [NAO Scoreboard](https://alt.org/nethack/fastasc-current.html)
 
